@@ -336,9 +336,8 @@ Operationalize the Tableau dashboard (`novamed_sfe.twbx`) to track efficiency ra
 
 ## Author
 
-**Aditya** — Data Analyst  
-Built as a portfolio project demonstrating consulting-grade analytical thinking for Data Analyst / Business Analyst roles at firms like ZS Associates, EY, and Deloitte.
-
+**Aditya**   
+ 
 ---
 
 *All data is synthetic. NovaMed Pharmaceuticals is a fictional company created for demonstration purposes.*
